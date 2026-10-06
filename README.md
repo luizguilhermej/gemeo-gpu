@@ -157,8 +157,7 @@ Mais importante, o estudo demonstra que o desempenho de uma solução térmica d
 
 ## 👥 Autores
 
-**Breno Lopes Souza**
-**Luiz Guilherme Oliveira Jardim**
+**Breno Lopes Souza** e **Luiz Guilherme Oliveira Jardim**
 
 **Engenharia de Software — 1º Semestre - CEUB**
 **Fundamentos de Engenharia — 2026.2**

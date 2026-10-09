@@ -8,7 +8,7 @@ O projeto integra **CAD, transferência de calor, ciência dos materiais, mecân
 
 ---
 
-## 🎯 Objetivo
+## OBJETIVO
 
 Avaliar uma solução de dissipação térmica capaz de manter a GPU abaixo de um **limite de projeto de 80 °C**, considerando desempenho térmico, massa, fabricação, custo, confiabilidade e sustentabilidade.
 
@@ -18,7 +18,7 @@ A **NVIDIA L4** foi utilizada como referência, com potência térmica de **72 W
 
 ---
 
-## 🧱 Solução proposta
+## SOLUÇÃO PROPOSTA
 
 Foi desenvolvido um dissipador de **Alumínio 6061** com:
 
@@ -39,7 +39,7 @@ O Alumínio 6061 (≈160 W/m·K) oferece melhor equilíbrio entre:
 
 ---
 
-## 🌡️ Simulação térmica
+## SIMULAÇÃO TÉRMICA
 
 O modelo considera:
 
@@ -68,7 +68,7 @@ O estudo também demonstrou que o **fluxo de ar é um dos parâmetros mais crít
 
 ---
 
-## ⚙️ Outras análises
+## OUTRAS ANÁLISES
 
 O projeto também aborda:
 
@@ -93,7 +93,7 @@ Estimativa de consumo energético e emissões, além de propostas como:
 
 ---
 
-## 📐 Estrutura do projeto
+## ESTRUTURA DO PROJETO
 
 ```text
 gemeo-digital-gpu/
@@ -116,7 +116,7 @@ gemeo-digital-gpu/
 
 ---
 
-## 💻 Reprodutibilidade
+## REPRODUTIBILIDADE
 
 A simulação está disponível em **Jupyter Notebook/Google Colab**, permitindo alterar parâmetros como:
 
@@ -128,9 +128,11 @@ A simulação está disponível em **Jupyter Notebook/Google Colab**, permitindo
 
 Os modelos CAD são disponibilizados em **STEP/STL**, permitindo visualização e edição em softwares compatíveis, como o FreeCAD.
 
+Além deste repositório, que contém e armazena todos os arquivos que compõem este projeto.
+
 ---
 
-## ⚠️ Limitações
+## LIMITAÇÕES
 
 O modelo possui caráter acadêmico e simplificado. Não são representados em detalhe:
 
@@ -145,7 +147,7 @@ Como evolução, podem ser utilizados **CFD, FEA 3D e validação experimental**
 
 ---
 
-## 🏁 Conclusão
+## CONCLUSÃO
 
 O projeto demonstrou que um dissipador de **Alumínio 6061 com 12 aletas e ventilação forçada** pode atender ao critério térmico definido para a condição analisada.
 
@@ -155,7 +157,7 @@ Mais importante, o estudo demonstra que o desempenho de uma solução térmica d
 
 ---
 
-## 👥 Autores
+## AUTORES
 
 **Breno Lopes Souza** e **Luiz Guilherme Oliveira Jardim**
 

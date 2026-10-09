@@ -2,7 +2,7 @@
 
 ## Placa GPU de Inferência de IA em Operação Contínua
 
-Projeto acadêmico de Sistematização desenvolvido para a disciplina de **Fundamentos de Engenharia — CEUB**, com o objetivo de desenvolver um **gêmeo digital térmico** para uma GPU destinada à inferência de Inteligência Artificial em operação contínua.
+Projeto acadêmico de Sistematização desenvolvido para a disciplina de **Fundamentos de Engenharia — CEUB**, com o objetivo de desenvolver, modelar e simular um **gêmeo digital térmico** para uma GPU destinada à inferência de Inteligência Artificial em operação contínua.
 
 O projeto integra **CAD, transferência de calor, ciência dos materiais, mecânica dos sólidos, química, sustentabilidade e simulação computacional**.
 
